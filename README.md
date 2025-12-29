@@ -4,7 +4,7 @@
 
 ⚡ I’m currently studying Electrical Engineering at the University of Calgary.    
 💻 I’m particularly interested in low-level programming and embedded systems, but I love learning new languages and using them for my projects!    
-📈 I’m actively building hands-on projects in embedded systems, control systems and more to improve my practical engineering skills.  
+📈 I’m actively building hands-on projects in embedded systems and more to improve my practical engineering skills.  
 
 ###
 
