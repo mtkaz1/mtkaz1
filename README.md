@@ -2,9 +2,9 @@
 
 ###
 
-⚡ I’m currently studying Electrical Engineering at the University of Calgary.    
-💻 I’m particularly interested in low-level programming and embedded systems, but I love learning new languages and using them for my projects!    
-📈 I’m actively building hands-on projects in embedded systems and more to improve my practical engineering skills.  
+⚡ I’m currently studying Electrical & Computer Engineering at the University of Calgary.    
+💻 I’m particularly interested in Digital Design and embedded systems!  
+📈 I’m actively building hands-on projects in Digital Design and Embedded Systems to improve my practical engineering skills.  
 
 ###
 
@@ -12,8 +12,9 @@
 
 ###
 
-**Autonomous Delivery Robot**: Developed a self-navigating robot using a Rasberry Pi Pico and Sensors, Developing firmware to create motor control and navigation logic.  
-**Cyberstride Biofeedback Walker**: Helped build a walking-aid using C, KiCad, and ESP32s, designed as modular systems to track patient data and support physiotherapy.  
+**Workout/Fitness Tracker**: Used ZephyrRTOS and the NRF52840dk to develop a workout tracker in C. Connected to an AI API to get information about your workout.
+**RC Car**: Developed an RC Car controlled by a ESP32, writing firmware in C++ and creating a Remote Control app in Python compatible with Bluetooth.  
+**Cyberstride Biofeedback Walker**: Helped build a walking-aid using C, KiCad, and ESP32, designed as modular systems to track patient data and support physiotherapy.  
 **Linux Terminal Text Editor**: Developed a personal text editor in C using the C99 standard, built from scratch with no external dependencies to learn how things actually work at a low level.
 ###
 
@@ -31,11 +32,19 @@
 ###
 
 <div align="left">
+  <img src="https://www.svgrepo.com/show/374115/systemverilog.svg" width="40" alt="systemverilog logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/374163/verilog.svg" width="40" alt="verilog logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
