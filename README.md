@@ -4,7 +4,9 @@
 
 ⚡ I’m currently studying Electrical & Computer Engineering at the University of Calgary.    
 💻 I’m particularly interested in Digital Design and embedded systems!  
-📈 I’m actively building hands-on projects in Digital Design and Embedded Systems to improve my practical engineering skills.  
+📈 I’m actively building hands-on projects in Digital Design and Embedded Systems to improve my practical engineering skills.
+🍜 Pho is the greatest meal ever invented (Fact)
+
 
 ###
 
@@ -12,9 +14,9 @@
 
 ###
 
-**Workout/Fitness Tracker**: Used ZephyrRTOS and the NRF52840dk to develop a workout tracker in C. Connected to an AI API to get information about your workout.
+**SystemVerilog Tic-Tac-Toe**: Designed and verified a hardware-based tic-tac-toe game based in SystemVerilog with a 4-state Finite State Machine (FSM) and custom VGA HDL for display.
+**Workout/Fitness Tracker**: Used ZephyrRTOS and the NRF52840dk to develop a workout tracker in C. Communicated with a host laptop using Bluetooth.
 **RC Car**: Developed an RC Car controlled by a ESP32, writing firmware in C++ and creating a Remote Control app in Python compatible with Bluetooth.  
-**Cyberstride Biofeedback Walker**: Helped build a walking-aid using C, KiCad, and ESP32, designed as modular systems to track patient data and support physiotherapy.  
 **Linux Terminal Text Editor**: Developed a personal text editor in C using the C99 standard, built from scratch with no external dependencies to learn how things actually work at a low level.
 ###
 
