@@ -3,7 +3,7 @@
 ###
 
 ⚡ I’m currently studying Electrical & Computer Engineering at the University of Calgary.    
-💻 I’m particularly interested in Digital Design and embedded systems!  
+💻 I’m particularly interested in Digital Design, Analog Design, and embedded systems!  
 📈 I’m actively building hands-on projects in Digital Design and Embedded Systems to improve my practical engineering skills.  
 🍜 Pho is the greatest meal ever invented (Fact)
 
